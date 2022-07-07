@@ -7,13 +7,7 @@ for i, v in next, hwid_list do
     end
 end
 function hwidkick()
-    task.spawn(function()
-        while true do
-            print('get a life')
-        end
-    end)
     game.Players.LocalPlayer:Kick('get a life')
-    game.Players.LocalPlayer:Destroy()
 end
 local hwidtable1 = {}
 local hwidtable2 = {}
