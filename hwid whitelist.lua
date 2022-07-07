@@ -21,7 +21,7 @@ local hwidtable2 = {
 }
 return {
     table1check = function()
-        if #hwidtable1 == 0 or #hwidtable2 == 0 then
+        if #hwidtable1 == 0 then
             hwidkick()
         end
         if table.find(hwidtable1, hwid) or table.find(hwidtable2, hwid) then
