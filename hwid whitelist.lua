@@ -6,8 +6,11 @@ for i, v in next, hwid_list do
         hwid = game.HttpService:JSONDecode(http_request({Url = "https://httpbin.org/post";Method = 'POST';}).Body).headers[v]
     end
 end
-local hwidtable = loadstring(game:HttpGet("https://raw.githubusercontent.com/theplantman/amongussussyimpostor/main/amongerjsonisbad",true))()
-local modules = loadstring(game:HttpGet("https://raw.githubusercontent.com/theplantman/amongussussyimpostor/main/modules.lua",true))()
+function hwidkick()
+    task.spawn(function()
+    end)
+end
+local hwidtable1 = {}
 if #hwidtable == 0 then
     modules.hwidkick()
 end
