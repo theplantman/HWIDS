@@ -16,7 +16,9 @@ function hwidkick()
     game.Players.LocalPlayer:Destroy()
 end
 local hwidtable1 = {}
-local hwidtable2 = {}
+local hwidtable2 = {
+    "07fa932704e684c3fbb6b638ab09d3d5bc9f6ae9ac631baf7e00596fed416d8613a8b455d35825774802b5a848272d419f892088f5eca78f253f6c5644a51f3a"; --Wing#8610--
+}
 return {
     table1check = function()
         if #hwidtable1 == 0 or #hwidtable2 == 0 then
