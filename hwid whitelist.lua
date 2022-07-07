@@ -20,6 +20,7 @@ local hwidtable1 = {
 }
 local hwidtable2 = {
     "07fa932704e684c3fbb6b638ab09d3d5bc9f6ae9ac631baf7e00596fed416d8613a8b455d35825774802b5a848272d419f892088f5eca78f253f6c5644a51f3a"; --Wing#8610--
+    "D8903A045BF44D107EB050FCA1BA2C401004"; --Error.#7073
 }
 return {
     table1check = function()
