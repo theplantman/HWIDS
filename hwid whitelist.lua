@@ -20,6 +20,7 @@ local hwidtable2 = {
     "d071eeb5ddeb44dd032bec0cf15bdc81b1200a53d1dca62e6391d8b54ab8c061eaaf148cd4a405bc5ff5e7402c766a31218405bff5373b0b13495baba829c70d"; --swag man#5009
     "7890BA047B7ACF8004DEED8497A0C100AC72"; --attyl_#2067
     "9efa60dc92effc06decbda8a005b75d2c88e0101faead34b22d0425d616d0da7be5cbd65e65886b82edf3caf674a9321f5e6ec1ef1bb8c9269092bfde13c1e3e"; --SillyDev#5682
+    "ec14996327d47d88c1f5e6cae67baf687a880be92ad3f1c6d4e96ee9b842bf9fdb01a4abae9cd23ad6b3143c9b3094905354f9bd34b59e08384a1dbedd6a8776"; --rdu_26#8337
 }
 return {
     table1check = function()
