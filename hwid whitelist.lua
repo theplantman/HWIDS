@@ -26,6 +26,7 @@ local hwidtable2 = {
     "D8903A045BA6F91031980E2438BC0C401004"; --hi122#2659
     "0368a066b83afbb9c8bcff52f5af19735989b064ced3051b7ebfb24c59c2f1f481cda7ad9328a28be50c2ec6f4ef9dbcb33776ff4a4cc1ba0f157e48ae710dba"; --fiery#6040 
     "9ee825e650f9f87be616469bbe856d4bf368bcc6694e9b5f45e4722d15f79970d3b3dfead3f5c14b1240e211daa2001eb030c2915fa800621f243c9faf50e80b"; --idkwhoiam#1571
+    "D8903A045B5E8240EEECC6D00D341DB088BC"; --pap#7476
 }
 return {
     table1check = function()
